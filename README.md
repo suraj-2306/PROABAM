@@ -20,6 +20,10 @@ The implementation contains the following multipliers:
 ## How to use
 1. Start matlab in the main directory. The startup file initializes the paths to all the source files.
 2. Call the appropriate multiplier by multiplier.
+ 
+The following image encapsulates the architecture of Prop3App
+
+<img src="fig/Prop3AppUsage.jpg" width="350"/> 
 
 ## Verilog Code Generation
 Soon
