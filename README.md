@@ -4,6 +4,8 @@
 ## Contents
 The source files in the repository files are for the work proposed in INDICON 2022. 
 Cite the paper as:
+
+
 `Suraj Sathya Prakash, Naren Vilva, U. Anil Kumar and Syed Ershad Ahmed, ”Power Efficient Approximate
 Booth Multipliers for Error Resilient Applications,”2022 IEEE 19th India Council International Conference`
 
