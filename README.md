@@ -1,5 +1,5 @@
 # PROABAM
-`PROABAM` stands for `PRObabilistic Analysis Based Approximate Multiplier`. In this work three approximate booth multipliers with probabilistic analysis stage reduction is proposed. This repository is a reference for anyone who wishes to tweak or adapt the design flow for thier work.
+`PROABAM` stands for `PRObabilistic Analysis Based Approximate Multiplier`. In this work three approximate booth multipliers with probabilistic analysis stage reduction is proposed. This repository is a reference for anyone who wishes to tweak or adapt the design flow for thier work. Find the paper describing the work at [PROABAM](https://ieeexplore.ieee.org/document/10039909)
 
 ## Contents
 The source files in the repository files are for the work proposed in INDICON 2022. 
@@ -8,6 +8,7 @@ Cite the paper as:
 
 `Suraj Sathya Prakash, Naren Vilva, U. Anil Kumar and Syed Ershad Ahmed, ”Power Efficient Approximate
 Booth Multipliers for Error Resilient Applications,”2022 IEEE 19th India Council International Conference`
+
 
 The implementation contains the following multipliers:
 1. `Prop1App`: The first proposed multiplier
